@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there
+
+Currently learning: Python, pandas, scikit-learn, SQL.
+
+Working on: a Java/Spring Boot hardware monitoring dashboard for my Linux server (public version coming soon).
+
+Interests: Linux, self-hosting, AI.
+
 
 <!--
 **Rxverik/Rxverik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
