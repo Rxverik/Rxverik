@@ -4,7 +4,7 @@ Currently learning: Python, pandas, scikit-learn, SQL.
 
 Working on: a Java/Spring Boot hardware monitoring dashboard for my Linux server (public version coming soon).
 
-Interests: Linux, self-hosting, AI.
+Interests: Linux, self-hosting and AI.
 
 
 <!--
